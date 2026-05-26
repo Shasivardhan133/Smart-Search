@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+.next
+target
+
+# Build outputs
+dist
+out
+build
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode
+.idea
+
+# OS
+Thumbs.db
+.DS_Store
